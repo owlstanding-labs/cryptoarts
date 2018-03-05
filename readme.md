@@ -5,8 +5,8 @@ artworks transaction technologie$.
 
 # TODO
 
-- [ ] [survey](#Survey)
-- [ ] [plans](#Plans)
+- [ ] [survey](#survey)
+- [ ] [plans](#plans)
 - [ ] develop
 - [ ] deploy
 - [ ] release
